@@ -1,1 +1,1 @@
-Teste clicando aqui [GitHub Pages] (https://lucas0headshot.github.io/ImersaoDev_Alura_7-2023/Aula_1/Conversor_Medidas 'Projeto no GitHub Pages')
+[Teste clicando aqui] (https://lucas0headshot.github.io/ImersaoDev_Alura_7-2023/Aula_1/Conversor_Medidas 'Projeto no GitHub Pages')
